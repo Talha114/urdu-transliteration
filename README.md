@@ -1,6 +1,6 @@
-# Urdu to Roman Urdu Transliteration
+# Roman Urdu to Urdu Transliteration
 
-This is a basic program for Urdu to Roman Urdu transliteration and vice versa. It maps Urdu characters to their corresponding Roman Urdu equivalents using dictionaries and replaces them in the strings.
+This is a basic program for Roman Urdu to Urdu transliteration. It maps Urdu characters to their corresponding Roman Urdu equivalents using dictionaries and replaces them in the strings.
 
 ## Urdu Dictionary
 
